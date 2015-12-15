@@ -1,0 +1,72 @@
+body{
+    background-image: url("http://www.desktop-image.com/wp-content/uploads/2014/08/space-wallpaper-1920x1080.jpg");
+    background-attachment:fixed;
+    font-family:Stencil;
+}
+#header{
+    background-color:#642EFE;
+    padding:16px;
+    color:white;
+    margin:20px 20px 0px 20px;
+    background-image: url("http://1.bp.blogspot.com/-quzFSWfLPNM/UmEUrmB0L9I/AAAAAAAAAg0/RMsy8_VQ1Z8/s1600/Banner+15.jpg");
+}
+#header a{
+    text-decoration:none;
+    color:white;
+    padding:5px;
+    border-color:white;
+}
+#links{
+    text-decoration:none;
+    color:white;
+    padding:10px;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin:0px 20px 20px 20px;
+    text-align:center;
+}
+#body{
+    background-color: rgba(0, 0, 0, 0.7);
+    color:white;
+    padding:16px;
+    margin:20px;
+}
+#right{
+    float:left;
+    width:330px;
+    text-align:center;
+}
+#left{
+    float:right;
+}
+#body p{
+    clear:both;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+#links a:hover, a:hover{
+    color:grey;
+}
+#links a:hover{
+    background-color:yellow;
+}
+#links a{
+    padding:20px;
+    font-size:18px;
+}
+h6{
+    /*to make space for the banner to show more of the pictures*/
+    height:200px;
+}
+figure img{
+    width:190px;
+}
+h1, h2{
+    text-align:center;
+    color:white;
+    margin:0px;
+}
+#sales{
+    clear:both;
+}
